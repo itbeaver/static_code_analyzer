@@ -2,8 +2,6 @@
 
 Welcome to static_code_analyzer. This gem is pronto wrapper for comfortable usage and analyze code.
 
-TODO: Delete this and the text above, and describe your gem
-
 ## Installation
 
 Add this line to your application's Gemfile:
