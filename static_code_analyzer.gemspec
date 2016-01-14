@@ -38,7 +38,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'pronto-rails_schema', '~> 0.5.0'
   spec.add_runtime_dependency 'pronto-reek', '~> 0.5.1'
   spec.add_runtime_dependency 'pronto-rubocop', '~> 0.5.0'
-  spec.add_runtime_dependency 'pronto-scss', "~> 0.5.1"
+  spec.add_runtime_dependency 'pronto-scss', '~> 0.5.1'
 
   spec.add_development_dependency 'bundler', '~> 1.10'
   spec.add_development_dependency 'rake', '~> 10.0'
