@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pronto run -f gitlab -c origin/master
