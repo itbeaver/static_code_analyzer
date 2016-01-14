@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'pronto-flay', '~> 0.5.0'
   spec.add_runtime_dependency 'pronto-jshint', '~> 0.5.0'
   spec.add_runtime_dependency 'pronto-haml', '~> 0.5.0'
-  spec.add_runtime_dependency 'pronto-poper', '~> 0.5.0'
+  # spec.add_runtime_dependency 'pronto-poper', '~> 0.5.3'
   spec.add_runtime_dependency 'pronto-rails_best_practices', '~> 0.5.0'
   spec.add_runtime_dependency 'pronto-rails_schema', '~> 0.5.0'
   spec.add_runtime_dependency 'pronto-reek', '~> 0.5.1'
