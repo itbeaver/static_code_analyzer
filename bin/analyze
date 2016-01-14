@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/env ruby
 
-pronto run -f text -c origin/master
+system 'pronto run -f text -c origin/master'
