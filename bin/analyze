@@ -1,0 +1,3 @@
+#!/bin/bash
+
+pronto run -f text -c origin/master
